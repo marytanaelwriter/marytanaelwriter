@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+You can call me Mary (or Anne). I'm a Technical Writer from the Philippines.
+
+I rekindled my love for computer science when I broke into the IT industry. 
+
+Right now, I'm self-studying Python. I also want to familiarize myself with computer science and software development concepts. 
+
+Learning how to code is mostly a hobby for me, but having some technical knowledge will also be helpful in my role as a Technical Writer.
+
+This profile is a place for me to dump my digital CVs, technical writing portfolio, and Python projects.
+
 <!--
 **marytanaelwriter/marytanaelwriter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
