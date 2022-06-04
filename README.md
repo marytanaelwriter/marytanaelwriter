@@ -3,7 +3,11 @@ This is where I dump my digital CVs, technical writing portfolio, experimentatio
 
 ### 🧑🏻‍💻 About me
 
-Hi! You can call me Anne or Mary. I'm a Technical Writer from the Philippines. Currently, I'm seeking remote technical writing opportunities in IT or software companies. You can learn more about me and my qualifications [here](https://marytanaelwriter.com) (I coded this page myself!).
+Hi! You can call me Anne or Mary. I'm a Technical Writer from the Philippines. 
+
+Currently, I'm seeking remote technical writing opportunities in IT or software companies. 
+
+You can learn more about me and my qualifications [here](https://marytanaelwriter.com) (I coded this page myself!).
 
 ### 💻 Passion for writing and technology
 
@@ -11,7 +15,7 @@ I've always been passionate about writing and have explored various forms, inclu
 
 But after years of working as a Content Writer and Editor, I desperately wanted something new.
 
-I did some soul searching to figure out my next steps, and I remembered my interest in computer science. After all, I dabbled with HTML, CSS, and JavaScript a few years ago and thoroughly enjoyed it. I also love playing around with different software and applications. 
+I did some soul searching to figure out my next steps, and I remembered my interest in computer science. For one, I dabbled with HTML, CSS, and JavaScript a few years ago and thoroughly enjoyed it. I also love playing around with different software and applications. 
 
 When I was setting up my blog, for example, I was more excited about learning the nitty-gritty of WordPress.org than working on my content strategy or writing my articles. 
 
