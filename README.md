@@ -39,7 +39,7 @@ Along the way, I somehow discovered a new hobby—coding. I've always wanted to 
 
 ### 📚 Studying coding and computer science
 
-Currently, I'm self-studying Python. I also want to familiarize myself with computer science, programming, and software development concepts. 
+Currently, I'm self-studying Python. I also want to familiarize myself with computer science, programming, and software development concepts. I'm mostly using Codecademy to get my feet wet, but I plan to explore other materials later on.
 
 I've joined online coding communities, made like-minded friends, and researched how to learn coding and technical things. I've listed down all the highly recommended resources and created a roadmap on what to study next. There are tons of resources out there, and I'm thrilled, but I'm taking it one step at a time. I don't want to push myself too hard, get overwhelmed, and end up quitting.
 
