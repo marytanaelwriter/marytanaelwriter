@@ -45,4 +45,10 @@ I've joined online coding communities, made like-minded friends, and researched 
 
 Right now, I'm just excited to learn more. I can't wait to see where this new journey will take me.
 
-Thanks for reading. 💕
+### 💌 Let's keep in touch!
+
+Do you have any questions or do you want to work with me?
+
+Drop me a line [here](mailto:marytanaelwriter@gmail.com). You can also connect with me on [LinkedIn](https://www.linkedin.com/in/marytanaelwriter).
+
+I look forward to hearing from you. 💖
