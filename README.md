@@ -17,9 +17,11 @@ When I was setting up my blog, for example, I was more excited about learning th
 
 Anyway, I've always been interested in IT and computer science, but I never felt brave enough to take the plunge. I thought I was too slow-witted for tech stuff. 
 
+But it was time for a change.
+
 ### 🖊️ Transitioning to tech writing
 
-Okay. So I want to explore IT and computer science—what next? Writing was pretty much my only marketable skill, and I sure didn't want to do a 180-degree turn and be a software developer.
+Okay. So I want to explore IT and computer science—what now? Writing was pretty much my only marketable skill, and I sure didn't want to do a 180-degree turn and be a Software Developer. I also really do love writing.
 
 During my soul searching, I somehow discovered technical writing. It was an eye-opener, to say the least. I couldn't believe there was a way to marry my love for writing *and* tech. I felt like the role was made specifically for me. I started learning more about IT and eventually landed a job in the IT industry.
 
