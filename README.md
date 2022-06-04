@@ -29,13 +29,13 @@ So, I wanted to explore IT and computer science—what now?
 
 Writing was pretty much my only marketable skill, and I sure didn't want to do a 180-degree turn and be a Software Developer or anything. I had no intention of abandoning writing either.
 
-During my soul searching, I somehow discovered technical writing. It was an eye-opener. I couldn't believe there was a way to marry my love for writing *and* tech. I felt like the role was made specifically for me. I started learning more about IT and eventually landed a job in the IT industry.
+During my soul searching, I discovered technical writing. It was an eye-opener. I couldn't believe there was a way to marry my love for writing *and* tech. I felt like the role was made specifically for me. I started learning more about IT and eventually landed a job in the IT industry.
 
 Sadly, that job wasn't a good fit for me, which is why I'm actively seeking opportunities right now.
 
-However, finding even an entry-level Technical Writer position can be challenging if you don't have enough experience a technical background. To address that gap, I decided to create a tech writing portfolio and beef up my tech knowledge (both are still ongoing!). 
+However, finding even an entry-level Technical Writer position can be challenging if you don't have enough experience or a technical background. To address that gap, I decided to create a tech writing portfolio and beef up my tech knowledge (both are still ongoing!). 
 
-Along the way, I somehow discovered a new hobby—coding. I've always wanted to learn a programming language. It seems like now's as good a time as any.
+Along the way, I stumbled on a new hobby—coding. I've always wanted to learn a programming language. It seems like now's as good a time as any.
 
 ### 📚 Studying coding and computer science
 
