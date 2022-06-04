@@ -35,13 +35,13 @@ Sadly, the role wasn't a good fit for me, which is why I'm actively seeking oppo
 
 However, finding even an entry-level role can be challenging if you don't have a technical background. To address that gap, I decided to create a tech writing portfolio and beef up my tech knowledge (both are still ongoing!). 
 
-Along the way, I somehow discovered a new hobby—coding. I've *always* wanted to learn a programming language. It seems like now's as good a time as any.
+Along the way, I somehow discovered a new hobby—coding. I've always wanted to learn a programming language. It seems like now's as good a time as any.
 
 ### 📚 Studying coding and computer science
 
 Currently, I'm self-studying Python. I also want to familiarize myself with computer science, programming, and software development concepts. 
 
-I've joined online coding communities, made like-minded friends, and researched how to learn coding and technical things. I've listed down all the highly recommended resources and created a roadmap on what to study next. There are *tons* of resources out there, and I'm thrilled, but I'm taking it one step at a time. I don't want to push myself too hard, get overwhelmed, and quit.
+I've joined online coding communities, made like-minded friends, and researched how to learn coding and technical things. I've listed down all the highly recommended resources and created a roadmap on what to study next. There are tons of resources out there, and I'm thrilled, but I'm taking it one step at a time. I don't want to push myself too hard, get overwhelmed, and end up quitting.
 
 Right now, I'm just excited to learn more. I can't wait to see where this new journey will take me.
 
