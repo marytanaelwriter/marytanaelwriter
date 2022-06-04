@@ -1,7 +1,7 @@
 ## ✨ Welcome to my page! ✨
 This is where I dump my digital CVs, technical writing portfolio, experimentations with static pages, and Python projects. 
 
-### 🧑🏻‍💻 About me
+## 🧑🏻‍💻 About me
 
 Hi! You can call me Anne or Mary. I'm a Technical Writer from the Philippines. 
 
