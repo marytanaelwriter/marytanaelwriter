@@ -11,7 +11,7 @@ But after years of working as a Content Writer, I desperately wanted something n
 
 When I was setting up my blog, for example, I was more excited about learning the nitty-gritty of WordPress.org than working on my content strategy or writing my articles. 
 
-Anyway, I've always been interested in it, but I never felt brave enough to take the plunge. I thought I was too slow-witted for anything too techie.
+Anyway, I've always been interested in IT and computer science, but I never felt brave enough to take the plunge. I thought I was too slow-witted for anything too techie.
 
 Then I discovered technical writing... It was an eye-opener, to say the least. I felt like the role was made specifically for me. I started learning more about IT and somehow landed a job in the IT industry.
 
