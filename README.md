@@ -1,4 +1,4 @@
-## ✨ Welcome to my GitHub page! ✨
+## ✨ Welcome to my page! ✨
 This is where I dump my digital CVs, technical writing portfolio, experimentations with static pages, and Python projects. 
 
 ### 🧑🏻‍💻 About me
