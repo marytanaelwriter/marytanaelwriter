@@ -3,7 +3,7 @@ This is where I dump my digital CVs, technical writing portfolio, and Python pro
 
 ### About me
 
-Hi! You can call me Anne or Mary. I'm a Technical Writer from the Philippines. Currently, I'm seeking remote technical writing opportunities in IT or software companies.
+Hi! You can call me Anne or Mary. I'm a Technical Writer from the Philippines. Currently, I'm seeking remote technical writing opportunities in IT or software companies. You can learn more about me and my qualifications [here](https://marytanaelwriter.com). (I coded this page myself!)
 
 ### 💻 Passion in writing and technology
 
@@ -21,13 +21,17 @@ But it was time for a change.
 
 ### 🖊️ Transitioning to tech writing
 
-Okay. So I want to explore IT and computer science—what now? Writing was pretty much my only marketable skill, and I sure didn't want to do a 180-degree turn and be a Software Developer. I also really do love writing.
+Okay. So I want to explore IT and computer science—what now? 
+
+Writing was pretty much my only marketable skill, and I sure didn't want to do a 180-degree turn and be a Software Developer. I also really do love writing.
 
 During my soul searching, I somehow discovered technical writing. It was an eye-opener, to say the least. I couldn't believe there was a way to marry my love for writing *and* tech. I felt like the role was made specifically for me. I started learning more about IT and eventually landed a job in the IT industry.
 
 Unfortunately, the role wasn't a good fit for me long-term, which is why I'm actively seeking opportunities right now.
 
-However, finding even an entry-level role can be challenging if you don't have a technical background. To address that gap, I decided to create a tech writing portfolio and beef up my tech knowledge (both are still ongoing!). Along the way, I somehow discovered a new hobby—coding. I've *always* wanted to learn a programming language. It seems like now's as good a time as any.
+However, finding even an entry-level role can be challenging if you don't have a technical background. To address that gap, I decided to create a tech writing portfolio and beef up my tech knowledge (both are still ongoing!). 
+
+Along the way, I somehow discovered a new hobby—coding. I've *always* wanted to learn a programming language. It seems like now's as good a time as any.
 
 ### 📚 Learning coding and computer science
 
