@@ -29,7 +29,7 @@ So, I wanted to explore IT and computer science—what now?
 
 Writing was pretty much my only marketable skill, and I sure didn't want to do a 180-degree turn and be a Software Developer or anything. I had no intention of abandoning writing either.
 
-During my soul searching, I discovered technical writing. It was an eye-opener. I couldn't believe there was a way to marry my love for writing *and* tech. I felt like the role was made specifically for me. I started learning more about IT and eventually landed a job in the IT industry.
+During my soul searching, I discovered technical writing. It was an eye-opener. I couldn't believe there was a way to marry my love for writing *and* tech. I felt like the role was made specifically for me. I started learning more about IT and technical writing, eventually landing a job in an IT company as a Technical Writer.
 
 Sadly, that job wasn't a good fit for me, which is why I'm actively seeking opportunities right now.
 
