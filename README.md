@@ -1,14 +1,23 @@
-### Hi there 👋
+### Hey, welcome to my GitHub page! Thanks for dropping by. ✨
+#### This profile is where I can dump my digital CVs, technical writing portfolio, and Python projects. 💻
 
-You can call me Mary (or Anne). I'm a Technical Writer from the Philippines.
+So, yeah, hi!
 
-I rekindled my love for computer science when I broke into the IT industry. 
+I go by Mary in professional setups, but my friends call me Anne instead. I'm a Technical Writer from the Philippines.
 
-Right now, I'm self-studying Python. I also want to familiarize myself with computer science and software development concepts. 
+I've always been passionate about writing and have explored various forms, including creative writing, content writing, and copywriting. 
 
-Learning how to code is mostly a hobby for me, but having some technical knowledge will also be helpful in my role as a Technical Writer.
+But after years of working as a Content Writer, I desperately wanted something new. *Anything.* I did some soul searching and remembered my interest in computer science. I dabbled with HTML, CSS, and JavaScript a few years ago and thoroughly enjoyed it. I also love playing around with different software and applications.
 
-This profile is a place for me to dump my digital CVs, technical writing portfolio, and Python projects.
+Then I discovered technical writing... and somehow landed a job in the IT industry.
+
+Unfortunately, the job wasn't a good fit for me long-term. So, right now, I'm actively seeking technical writing opportunities. 
+
+However, finding an entry-level role can be challenging when you don't have a technical background. I decided to work on my tech writing portfolio and beef up my tech knowledge. Along the way, I somehow discovered a new hobby--coding.
+
+I'm currently self-studying Python. I also want to familiarize myself with computer science, programming, and software development concepts. There are *tons* of resources out there, and I'm thrilled, but I'm taking it one step at a time.
+
+I'm so excited about this new learning journey. 💕
 
 <!--
 **marytanaelwriter/marytanaelwriter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
