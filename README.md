@@ -3,7 +3,7 @@
 
 So, yeah, hi!
 
-I go by Mary in professional setups, but my friends call me Anne instead. I'm a Technical Writer from the Philippines.
+I go by **Mary** in a professional or work setting, but my friends call me **Anne** instead. I'm a Technical Writer from the Philippines.
 
 I've always been passionate about writing and have explored various forms, including creative writing, content writing, and copywriting. 
 
