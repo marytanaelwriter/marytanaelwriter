@@ -5,7 +5,7 @@ This is where I dump my digital CVs, technical writing portfolio, experimentatio
 
 Hi! You can call me Anne or Mary. I'm a Technical Writer from the Philippines. 
 
-Currently, I'm seeking remote technical writing opportunities in IT or software companies. 
+I'm currently seeking remote technical writing opportunities in IT or software companies. 
 
 You can learn more about me and my qualifications [here](https://marytanaelwriter.com) (I coded this page myself!).
 
