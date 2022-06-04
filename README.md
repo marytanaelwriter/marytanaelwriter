@@ -11,9 +11,9 @@ But after years of working as a Content Writer, I desperately wanted something n
 
 When I was setting up my blog, for example, I was more excited about learning the nitty-gritty of WordPress.org than working on my content strategy or writing my articles. 
 
-Anyway, I've always been interested in IT and computer science, but I never felt brave enough to take the plunge. I thought I was too slow-witted for anything too techie.
+Anyway, I've always been interested in IT and computer science, but I never felt brave enough to take the plunge. I thought I was too slow-witted for tech stuff. 
 
-During my soul searching, I somehow discovered technical writing. It was an eye-opener, to say the least. I couldn't believe there was a way to marry my love for writing *and* tech. I felt like the role was made specifically for me. I started learning more about IT and eventually landed a job in the IT industry.
+Just as I was wondering about what to do with this realization, I somehow discovered technical writing. It was an eye-opener, to say the least. I couldn't believe there was a way to marry my love for writing *and* tech. I felt like the role was made specifically for me. I started learning more about IT and eventually landed a job in the IT industry.
 
 Unfortunately, the job wasn't a good fit for me long-term. So, right now, I'm actively seeking technical writing opportunities. 
 
@@ -21,7 +21,7 @@ However, finding an entry-level role can be challenging if you don't have a tech
 
 Currently, I'm self-studying Python. I also want to familiarize myself with computer science, programming, and software development concepts. I've joined online communities and found new coding buddies. I've listed down all the highly recommended resources. There are *tons* out there, and I'm thrilled, but I'm taking it one step at a time.
 
-I'm *so* excited about this new learning journey. 
+I'm so excited about this new learning journey. 
 
 Thanks for reading. 💕
 
