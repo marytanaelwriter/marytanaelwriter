@@ -33,7 +33,7 @@ During my soul searching, I somehow discovered technical writing. It was an eye-
 
 Sadly, the role wasn't a good fit for me, which is why I'm actively seeking opportunities right now.
 
-However, finding even an entry-level role can be challenging if you don't have a technical background. To address that gap, I decided to create a tech writing portfolio and beef up my tech knowledge (both are still ongoing!). 
+However, finding even an entry-level Technical Writer position can be challenging if you don't have a technical background. To address that gap, I decided to create a tech writing portfolio and beef up my tech knowledge (both are still ongoing!). 
 
 Along the way, I somehow discovered a new hobby—coding. I've always wanted to learn a programming language. It seems like now's as good a time as any.
 
