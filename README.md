@@ -45,7 +45,9 @@ I've joined online coding communities, made like-minded friends, and researched 
 
 Right now, I'm just excited to learn more. I can't wait to see where this new journey will take me.
 
-### 💌 Let's keep in touch!
+---
+
+## 💌 Let's keep in touch!
 
 Do you have any questions or do you want to work with me?
 
