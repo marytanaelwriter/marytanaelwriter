@@ -1,5 +1,5 @@
-### Hey, welcome to my GitHub page! Thanks for dropping by. ✨
-This profile is where I dump my digital CVs, technical writing portfolio, and Python projects. 💻
+### Hey, welcome to my GitHub profile! Thanks for dropping by. ✨
+This page is where I dump my digital CVs, technical writing portfolio, and Python projects. 💻
 
 ### About me
 
@@ -17,7 +17,9 @@ However, finding an entry-level role can be challenging if you don't have a tech
 
 Currently, I'm self-studying Python. I also want to familiarize myself with computer science, programming, and software development concepts. I've joined online communities and found new coding buddies. I've listed down all the highly recommended resources. There are *tons* out there, and I'm thrilled, but I'm taking it one step at a time.
 
-I'm so excited about this new learning journey. 💕
+I'm *so* excited about this new learning journey. 
+
+Thanks for reading. 💕
 
 <!--
 **marytanaelwriter/marytanaelwriter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
