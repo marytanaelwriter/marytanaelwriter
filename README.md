@@ -31,7 +31,7 @@ Writing was pretty much my only marketable skill, and I sure didn't want to do a
 
 During my soul searching, I somehow discovered technical writing. It was an eye-opener, to say the least. I couldn't believe there was a way to marry my love for writing *and* tech. I felt like the role was made specifically for me. I started learning more about IT and eventually landed a job in the IT industry.
 
-Sadly, the role wasn't a good fit for me, which is why I'm actively seeking opportunities right now.
+Sadly, that job wasn't a good fit for me, which is why I'm actively seeking opportunities right now.
 
 However, finding even an entry-level Technical Writer position can be challenging if you don't have a technical background. To address that gap, I decided to create a tech writing portfolio and beef up my tech knowledge (both are still ongoing!). 
 
