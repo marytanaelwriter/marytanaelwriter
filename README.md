@@ -25,9 +25,9 @@ But it was time for a change.
 
 ### 🖊️ Transitioning to tech writing
 
-So, I want to explore IT and computer science—what now? 
+So, I wanted to explore IT and computer science—what now? 
 
-Writing was pretty much my only marketable skill, and I sure didn't want to do a 180-degree turn and be a Software Developer or anything. I also don't want to abandon writing.
+Writing was pretty much my only marketable skill, and I sure didn't want to do a 180-degree turn and be a Software Developer or anything. I also didn't want to abandon writing.
 
 During my soul searching, I somehow discovered technical writing. It was an eye-opener, to say the least. I couldn't believe there was a way to marry my love for writing *and* tech. I felt like the role was made specifically for me. I started learning more about IT and eventually landed a job in the IT industry.
 
