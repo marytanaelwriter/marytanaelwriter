@@ -1,5 +1,5 @@
 ### Hey, welcome to my GitHub page! Thanks for dropping by. ✨
-#### This profile is where I can dump my digital CVs, technical writing portfolio, and Python projects. 💻
+#### This profile is where I dump my digital CVs, technical writing portfolio, and Python projects. 💻
 
 So, yeah, hi!
 
